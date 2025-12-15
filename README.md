@@ -4,5 +4,4 @@
 
 I’m an experienced Product Manager with a passion for turning complex problems into simple, meaningful digital experiences. I currently serve as the **Lead Product Manager at Treepz**, where I’ve helped shape and scale products used across multiple markets.
 
-My contributions to academic through research and large scale mentoring has earned me **Doctorate honours**, and I enjoy contributing to the tech community through continuous learning, mentorship, and sharing industry insights.
-
+My contributions to academic through research and large scale mentoring has earned me **Doctorate honours**
